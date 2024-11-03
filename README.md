@@ -3,9 +3,12 @@ project name: THE ULTIMATE EXCUSE AND COMPLIMENT GENERATOR 🎯
 Basic Details
 Team Name: ByteBuilders
 Team Members
-Team Lead: RIDA THARIQ - GEC KOZHIKODE
-Member 2: LIYA FATHIMA- GEC KOZHIKODE
-Member 3: NEHA MARIAM SUNNY -GEC KOZHIKODE
+Team Lead:
+RIDA THARIQ - GEC KOZHIKODE
+Member 2: 
+LIYA FATHIMA- GEC KOZHIKODE
+Member 3: 
+NEHA MARIAM SUNNY -GEC KOZHIKODE
 Project Description
 This project is a smart chatbot designed to generate personalized excuses and compliments tailored to different situations. It helps users respond with quick, witty excuses or thoughtful compliments, making interactions smoother and more engaging.
 

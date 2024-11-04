@@ -58,6 +58,11 @@ THIS IS HOW COMPLIMENT GENERATOR WORKS
 ![Screen![Screenshot 2024-11-03 220326](https://github.com/user-attachments/assets/4ef2546a-0ea1-4259-b442-11b36724087d)
 ABOUT PAGE WHICH PROVIDES THE DETAILS ABOUT THE SITE AND TEAM MEMBERS
 
+Video
+https://github.com/user-attachments/assets/de46b6c3-b375-4960-bfca-7476a1cae85c
+
+Description : 
+First shown is the Home page. On clicking Excuse Generator goes to page of Excuse generator.There's a chatbot we can type the category for excuse and that would be generated.That can be copied.screen can be cleared.From HomePage on clicking Compliment Generator same as Excuse generator happpens.About us page gives information about the creators and abrief description about our project.THANK YOU !
 
 
 
